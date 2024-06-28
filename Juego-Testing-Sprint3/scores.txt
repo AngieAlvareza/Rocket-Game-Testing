@@ -1,0 +1,25 @@
+JOHAN: 30
+ISAC: 10
+JOHAN ISAC : 30
+JOSE : 100
+SACSACSAJOSE: 40
+JOHAN ISAC: 0
+DINA: 0
+JOHAN: 110
+ANGIE: 20
+JOHAN: 5
+ JOHAN: 105
+ISAC: 0
+JOHAN: 0
+johan: 40
+johan: 0
+johan isac: 0
+johan isac: 0
+johan: 115
+johan: 10
+jhan: 0
+jjohan: 10
+johan: 0
+johan: 10
+johan isac: 10
+isac: 145
